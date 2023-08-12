@@ -1,2 +1,2 @@
 # calculator
-I have designed calculator using Html5,CSS
+I have designed calculator app  using Html5,CSS3.
